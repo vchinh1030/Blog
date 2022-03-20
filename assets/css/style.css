@@ -1,0 +1,11 @@
+/* CSS for header */
+.col-md-12 {
+    padding: 0;
+}
+/* CSS for main */
+.my_intro {
+    text-align: justify; /* can chinh van ban */
+}
+.inp {
+    padding: 0 3px;
+}
